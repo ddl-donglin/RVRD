@@ -12,3 +12,5 @@ easydict
 matplotlib
 pyyaml
 tensorboardX
+imageio
+git+git://github.com/pytorch/text
