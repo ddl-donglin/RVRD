@@ -4,3 +4,11 @@ opencv-python
 torch>=0.4.0
 moviepy
 requests
+cython
+cffi
+scipy
+msgpack
+easydict
+matplotlib
+pyyaml
+tensorboardX
