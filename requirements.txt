@@ -2,3 +2,5 @@ Pillow
 numpy
 opencv-python
 torch>=0.4.0
+moviepy
+requests
